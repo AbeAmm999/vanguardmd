@@ -18,6 +18,7 @@
     "better-sqlite3": "^11.0.0",
     "api-qasim": "^3.2.10",
     "chalk": "^4.1.2",
+    "chokidar": "^5.0.0",
     "dotenv": "^16.4.5",
     "events": "^3.3.0",
     "express":"^4.12.0",
