@@ -1,6 +1,6 @@
 {
   "name": "vanguard-md",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "VANGUARD MD — WhatsApp Multi-Device Bot powered by Lord MegaBaileys",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "dependencies": { 
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "npm:@itsliaaa/baileys@latest",
+    "@whiskeysockets/baileys": "latest",
     "@libsql/client":"0.17.0",
     "acrcloud": "^1.4.0",
     "axios": "^1.8.4",
